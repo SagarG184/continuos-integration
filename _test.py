@@ -1,7 +1,7 @@
 import pytest
 
 # Function to test square
-def square(n):
+def square(n):ee
     return n ** 2
 
 # Function to test cube
